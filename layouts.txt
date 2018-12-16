@@ -1,0 +1,3 @@
+https://librosweb.es/libro/css/capitulo-12/estructura-o-layout.html
+https://www.lawebera.es/como-hacer/ejemplos-html-xhml/html-y-css-ejemplos-de-layouts.php
+https://franciscoamk.com/como-crear-una-fija-estatica-con-html-y-css/
